@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\virtual_ve_override_kavramlari\virtual_ve_override_kavramlari\bin\Debug\virtual_ve_override_kavramlari.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\virtual_ve_override_kavramlari\virtual_ve_override_kavramlari\bin\Debug\virtual_ve_override_kavramlari.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\virtual_ve_override_kavramlari\virtual_ve_override_kavramlari\bin\Debug\virtual_ve_override_kavramlari.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\virtual_ve_override_kavramlari\virtual_ve_override_kavramlari\obj\Debug\virtual_ve_override_kavramlari.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\virtual_ve_override_kavramlari\virtual_ve_override_kavramlari\obj\Debug\virtual_ve_override_kavramlari.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\OOP\virtual_ve_override_kavramlari\virtual_ve_override_kavramlari\obj\Debug\virtual_ve_override_kavramlari.pdb
